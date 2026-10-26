@@ -35,7 +35,7 @@ I am seeking an entry-level software development opportunity where I can apply m
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sushmahm041)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/sushma-h-m-306b8532a)
 - **GitHub:** [Explore my repositories](https://github.com/Sushma135-a)
 
 ---
