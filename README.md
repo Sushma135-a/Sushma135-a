@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Sushma H M 👋
 
-<!--
-**Sushma135-a/Sushma135-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Developer | MCA Graduate
 
-Here are some ideas to get you started:
+I'm an aspiring software developer passionate about building user-friendly web applications and practical software solutions. I enjoy learning new technologies and developing projects using frontend and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Java, JavaScript, TypeScript, Python, SQL
+- **Frontend:** HTML, CSS, React.js, Angular
+- **Backend:** Node.js, Express.js, Spring Boot
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Postman
+
+## 🚀 Featured Projects
+
+### 1. FixMyRide
+A car service booking application built using Angular and Spring Boot.
+
+[View Repository](https://github.com/Sushma135-a/FixMyRide)
+
+### 2. Medify+
+An online medicine shopping application built using the MERN stack.
+
+[View Repository](https://github.com/Sushma135-a/Medify-)
+
+### 3. Food Delivery App
+A food delivery application. Explore the repository for its implementation and features.
+
+[View Repository](https://github.com/Sushma135-a/Food-Delivery-App)
+
+## 🎯 Career Objective
+
+I am seeking an entry-level software development opportunity where I can apply my technical knowledge, solve real-world problems, and continue growing as a developer.
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sushmahm041)
+- **GitHub:** [Explore my repositories](https://github.com/Sushma135-a)
+
+---
+
+*Always learning, building, and improving!* 🚀
